@@ -1,5 +1,5 @@
 gradio
-transformers>=4.31.0
+transformers>=4.26.1
 bitsandbytes>=0.41.1
 similarities>=1.0.5
 sentencepiece
